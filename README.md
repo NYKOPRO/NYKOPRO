@@ -10,5 +10,5 @@ i'm currently studying at EPFL in Lausanne, Switzerland.
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats-fork-ten-sand.vercel.app/api?username=NYKOPRO&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com?user=NYKOPRO&theme=gruvbox_light&hide_border=false)<br/>
-![](https://github-readme-stats-NYKOPRO.vercel.app/api/top-langs/?username=NYKOPRO&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-fork-ten-sand.vercel.app/api/top-langs/?username=NYKOPRO&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
